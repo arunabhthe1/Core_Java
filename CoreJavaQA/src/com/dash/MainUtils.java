@@ -78,4 +78,5 @@ interface I2{
 	public default void show(){
 		System.out.println(" THis is the default method for I2");
 	}
+	
 }
